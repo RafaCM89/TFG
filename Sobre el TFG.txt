@@ -1,0 +1,2 @@
+https://electronics.stackexchange.com/questions/172114/gyroscope-bias-on-the-mpu9150
+https://store.invensense.com/datasheets/invensense/MPU-9150_DataSheet_V4%203.pdf
