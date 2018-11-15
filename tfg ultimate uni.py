@@ -45,9 +45,9 @@ def conjugate_quaternion (x1, u):
     return [x1, u]
 aux_quaternion1 = np.array([L1[10],L1[11],L1[12],L1[13]])
 aux_quaternion2 = aux_quaternion1.astype(np.float)
-quaternion = [aux_quaternion2[0], np.array([aux_quaternion2[1],aux_quaternion2[2],aux_quaternion2[3]])
+quaternion = [aux_quaternion2[0], np.array([aux_quaternion2[1],aux_quaternion2[2],aux_quaternion2[3]])]
 quaternion_0 = [0,np.zeros(3)]
-quaternion_between_epochs = (quaternion_multiplication(quaternion[0], np.array([quaternion[1], quaternion[2], quaternion[3]]), q1, q2))
+quaternion_between_epochs = (quaternion_multiplication(quaternion[0], quaternion[1], q1, q2))
 position_vector_ini = [0,0,0]
 position_vector_0 = position_vector_ini
 aux_position_vector_1 = quaternion_multiplication(quaternion_between_epochs[0], quaternion_between_epochs[1], quaternion_0[0], quaternion_0[1])
