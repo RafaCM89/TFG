@@ -1,2 +1,5 @@
-https://electronics.stackexchange.com/questions/172114/gyroscope-bias-on-the-mpu9150
-https://store.invensense.com/datasheets/invensense/MPU-9150_DataSheet_V4%203.pdf
+Dudas TFG
+¿Como obetner el vector velocidad lineal v? => Si v = r * w
+¿Qué mide el magnetrometro? (El campo magnetico B que es una magnitud vectorial). ¿Como aplicarlo a nuestro problema?
+Es necesario calcular el angulo de salida del disco/martillo? ¿Como calcularlo?
+Artículo de referencia https://www.mdpi.com/1424-8220/14/12/22864/htm
