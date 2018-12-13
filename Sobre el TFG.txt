@@ -1,5 +1,5 @@
 Dudas TFG
 ¿Como obetner el vector velocidad lineal v? => Si v = r * w
 ¿Qué mide el magnetrometro? (El campo magnetico B que es una magnitud vectorial). ¿Como aplicarlo a nuestro problema?
-Es necesario calcular el angulo de salida del disco/martillo? ¿Como calcularlo?
+¿Es necesario calcular el angulo de salida del disco/martillo? ¿Como calcularlo?
 Artículo de referencia https://www.mdpi.com/1424-8220/14/12/22864/htm
